@@ -10,7 +10,7 @@ Everything is built from scratch no copy-paste templates.
 ---
 
 🛠️ Tools & Tech:
-- ![Python](https://img.shields.io/badge/Python-007396)(Django, Aiogram)
+- 🐍 Python (Django, Aiogram)
 - 🌐 HTML & CSS
 - ⚡ JavaScript
 
