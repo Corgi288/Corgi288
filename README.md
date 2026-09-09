@@ -10,16 +10,12 @@ Everything is built from scratch no copy-paste templates.
 ---
 
 🛠️ Tools & Tech:
-- 🐍 Python (Django, Aiogram)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)(Django, Aiogram)
 - 🌐 HTML & CSS
 - ⚡ JavaScript
 
 ---
 
-A bit about me:
-
-* 🐇 I have a rabbit
-* 🌫️ Silent Hill fan
 
 
 
